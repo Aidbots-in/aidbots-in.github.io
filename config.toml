@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://anshulpaigwar.github.io/AidBots/"
+baseurl = "https://anshulpaigwar.github.io/aidbots/"
 title = "AidBots"
 theme = "vex-hugo"
 # post excert
