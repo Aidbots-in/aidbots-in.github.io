@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://demo.themefisher.com/vex-hugo/"
+baseurl = "http://demo.themefisher.com"
 title = "AidBots"
 theme = "vex-hugo"
 # post excert
@@ -8,6 +8,8 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 disableLanguages = ["fr"] # desable language from here
+
+publishDir = "docs"
 
 #################################### Plugins ##########################################
 
