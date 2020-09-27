@@ -1,12 +1,9 @@
 ---
-title: "Redmi Watch"
+title: "Lokmat Samachar"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "news/news5.jpeg"
 
 # meta description
 description : "this is meta description"

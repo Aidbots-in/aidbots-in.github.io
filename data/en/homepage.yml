@@ -63,7 +63,8 @@ features:
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/iPhone-X.png"
+  # image : "images/iPhone-X.png"
+  youtube: pSqHcjDWims
   title : "Designed by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
             nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
@@ -105,6 +106,31 @@ products:
   title : "Checkout Our All Products"
 
 
+
+############################## Testimonial ##########################
+team:
+  enable : true
+  title : "Meet the Team"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Harshad Zade"
+      designation : "CEO, Aidbots"
+      image : "team/harshad2.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Ajinkya Kamat"
+      designation : "CTO, Aidbots"
+      image : "team/ajinkya.jpg"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Anshul Paigwar"
+      designation : "CTO, Aidbots"
+      image : "team/anshul.jpeg"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+
 ################################## Subscription ###################
 subscription:
   enable : true
@@ -114,25 +140,25 @@ subscription:
   placeholder : "Your Email Address Here"
 
 
-############################## Testimonial ##########################
-testimonial:
-  enable : true
-  title : "Watch Review"
-  testimonial_item:
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+# ############################## Testimonial ##########################
+# team:
+#   enable : true
+#   title : "Meet the Team"
+#   testimonial_item:
+#     # testimonial item loop
+#     - name : "Jonathon Andrew"
+#       designation : "CEO, Themefisher"
+#       image : "team/anshul.jpeg"
+#       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+#     # testimonial item loop
+#     - name : "Jonathon Andrew"
+#       designation : "CEO, Themefisher"
+#       image : "team/anshul.jpeg"
+#       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+#     # testimonial item loop
+#     - name : "Jonathon Andrew"
+#       designation : "CEO, Themefisher"
+#       image : "team/anshul.jpeg"
+#       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

@@ -9,24 +9,6 @@
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://anshulpaigwar.github.io/aidbots/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-1/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Galaxy Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-2/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
       <title>How to choose right watch for you.</title>
       <link>https://anshulpaigwar.github.io/aidbots/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
@@ -47,7 +29,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Motorola Watch</title>
+      <title>Lokmat Samachar</title>
+      <link>https://anshulpaigwar.github.io/aidbots/products/product-5/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://anshulpaigwar.github.io/aidbots/products/product-5/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Maharashtra Times</title>
       <link>https://anshulpaigwar.github.io/aidbots/products/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -56,38 +47,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>OnePlus Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-7/</link>
+      <title>Sakaad</title>
+      <link>https://anshulpaigwar.github.io/aidbots/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-7/</guid>
+      <guid>https://anshulpaigwar.github.io/aidbots/products/product-2/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
-      <title>Oppo Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-8/</link>
+      <title>The Hitavada</title>
+      <link>https://anshulpaigwar.github.io/aidbots/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-8/</guid>
+      <guid>https://anshulpaigwar.github.io/aidbots/products/product-3/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
-      <title>Realme Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-6/</link>
+      <title>Times of India, Nagpur</title>
+      <link>https://anshulpaigwar.github.io/aidbots/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Redmi Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-5/</guid>
+      <guid>https://anshulpaigwar.github.io/aidbots/products/product-1/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
@@ -109,15 +91,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <guid>https://anshulpaigwar.github.io/aidbots/blog/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Xiaomi Watch</title>
-      <link>https://anshulpaigwar.github.io/aidbots/products/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://anshulpaigwar.github.io/aidbots/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
   </channel>
