@@ -1,0 +1,36 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.homepage.promo_vers.enable }}
+{{ with $data.homepage.promo_vers }}
+<section class="bg-orange section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="heading">
+          <h2 class="heading text-white text-center font-weight-bold mb-10">{{ .title | markdownify }}</h2>
+        </div>
+      </div>
+      {{ range .columns }}
+      <div class="col-sm text-center mb-5 mb-lg-0">
+         <img class="img-fluid" src="{{ .image | absURL }}" alt="" width="50%">
+          <h4 class="font-weight-bold mt-2">{{ .version | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>   
+      </div>
+      {{ end }}
+<!--       <div class="col-sm text-center mb-5 mb-lg-0">
+         <img class="img-fluid" src="{{ .image2 | absURL }}" alt="" width="50%">  
+      </div>
+      <div class="col-sm text-center mb-5 mb-lg-0">
+         <img class="img-fluid" src="{{ .image3 | absURL }}" alt="" width="50%">   
+      </div> -->
+<!--       <div class="col-md-6 align-self-center text-center text-md-left">
+        <div class="content">
+          <h2 class="subheading text-white font-weight-bold mb-10">{{ .title | markdownify }}</h2>
+          <p class="text-white">{{ .content | markdownify }}</p>
+        </div>
+      </div> -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
