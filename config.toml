@@ -105,7 +105,7 @@ preloader = "" # use .png , .svg or .gif format
 # Subscription
 [params.subscription]
 # mailchimp subsciption
-mailchimp_form_action = "https://aidbots.us2.list-manage.com/subscribe/post?u=8f1a3d773f3410ea7a5cf4473&amp;id=895895f5b1" # replace this url with yours
+mailchimp_form_action = "https://aidbots.us2.list-manage.com/subscribe/post?u=8f1a3d773f3410ea7a5cf4473&amp;id=895895f5b1" # not working from here had to directly place url in subscription.html
 mailchimp_form_name = "b_8f1a3d773f3410ea7a5cf4473_895895f5b1" # replace this code with yours
 
 
