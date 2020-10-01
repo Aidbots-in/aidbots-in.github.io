@@ -79,7 +79,7 @@ about_product:
   items:
     # about product item loop
     - image : "images/sahayak-doctor2.png"
-      title : "Lorem ipsum dolor sit amet."
+      title : "Co-designed with care & your Feedbacks."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
@@ -90,7 +90,7 @@ about_product:
         
     # about product item loop
     - image : "images/nurse.gif"
-      title : "Lorem ipsum dolor sit amet."
+      title : "Asisting doctors at AIIMS, Nagpur."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
@@ -101,7 +101,7 @@ about_product:
 
     # about product item loop
     - image : "images/iPhone-X.png"
-      title : "Lorem ipsum dolor sit amet."
+      title : "Control it from your smartphone."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
             sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
             quas, quo harum deserunt consequatur cumque!"
@@ -110,7 +110,16 @@ about_product:
         label : "Check Features"
         link : "#"
 
-
+    # about product item loop
+    - image : "images/made_in_india.gif"
+      title : "Made and crafted in India!"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+            quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
 
 ############################# promo_vers ############################
 promo_vers:
@@ -130,7 +139,7 @@ promo_vers:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Media Coverage"
 
 
 

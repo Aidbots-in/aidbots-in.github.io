@@ -4,9 +4,9 @@ description : "this is a meta description"
 
 office:
   title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
+  mobile : "+91-7066333800"
+  email : "support@aidbots.in"
+  location : "Ivlabs, VNIT, Nagpur, Maharashtra 440010, India"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour
