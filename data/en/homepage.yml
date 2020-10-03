@@ -1,13 +1,13 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Sahayak Robot, Believe in Technology"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "Sahayak Robot, Think Distant"
+  content : "Short description of the robot how it helps in coronavirus situation."
   image : "images/sahayak-1.png"
   button:
    enable : true
-   label : "Get a Quote"
-   link : "contact"
+   label : "Get Brochure"
+   link : "https://drive.google.com/file/d/1tU39xiUDCUBD0QRCalufh2pbT4OrZW9e/view?usp=sharing"
 
 ############################# Feature ############################
 features:
@@ -65,12 +65,12 @@ promo:
   enable : true
   # image : "images/iPhone-X.png"
   youtube: pSqHcjDWims
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "Your companion in the fight against coronavirus"
+  content : "Scare ppl with coronavirus stats end with an idea of using a robot technology."
 
+
+            # <br><br>
+            # Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 
 ############################# About Product #######################
 about_product:
@@ -80,9 +80,7 @@ about_product:
     # about product item loop
     - image : "images/sahayak-doctor2.png"
       title : "Co-designed with care & your Feedbacks."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      content : "How robots can protect dotors use cases in hospital"
       button:
         enable : false
         label : "Check Features"
@@ -91,9 +89,7 @@ about_product:
     # about product item loop
     - image : "images/nurse.gif"
       title : "Asisting doctors at AIIMS, Nagpur."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      content : "Write how it is assiting in aiims like number of patients... number of hours."
       button:
         enable : false
         label : "Check Features"
@@ -102,9 +98,7 @@ about_product:
     # about product item loop
     - image : "images/iPhone-X.png"
       title : "Control it from your smartphone."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      content : "Use your anodroid or Iphone to move the robot and consult patient on video call distantly"
       button:
         enable : false
         label : "Check Features"
@@ -132,7 +126,7 @@ promo_vers:
     - image : "images/sahayak.png"
       version : "Version-2"
 
-    - image : "images/sahayak.png"
+    - image : "images/sahayak_v3.png"
       version : "Version-3 (Coming soon)"
 
 
@@ -165,6 +159,24 @@ team:
       designation : "CTO, Aidbots"
       image : "team/anshul.jpeg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+
+############################# promo_vers ############################
+logos:
+  enable : true
+  title : "In association with"
+  columns:
+    - image : "images/IvLabs-Black.png"
+      link : "https://www.ivlabs.in/"
+
+    - image : "images/VNIT Nagpur.png"
+      link : "https://vnit.ac.in/"
+
+
+
+
+
+
 
 
 ################################## Subscription ###################

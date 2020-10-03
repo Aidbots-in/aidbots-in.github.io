@@ -197,7 +197,7 @@ a:active {
   color: #fff;
   border-radius: 30px;
   font-size: 18px;
-  padding: 15px 40px;
+  padding: 10px 30px;
   display: inline-block;
   background-color: $primary-color;
   box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
@@ -209,6 +209,33 @@ a:active {
     color: #fff;
   }
 }
+
+
+
+
+.btn-nav {
+  color: #fff;
+  border-radius: 30px;
+  font-size: 16px;
+  padding: 5px 10px;
+  display: inline-block;
+  background-color: $primary-color;
+  box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
+  background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
+
+  &:hover,
+  &:focus {
+    background-color: $primary-color;
+    color: #fff;
+  }
+}
+
+
+
+
+
+
+
 
 .btn-main-sm {
   padding: 12px 35px;

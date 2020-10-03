@@ -50,11 +50,11 @@ weight = 1
 # URL = "products"
 # weight = 2
 
-# # main menu
-# [[menu.main]]
-# name = "Blog"
-# URL = "blog"
-# weight = 3
+# main menu
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 3
 
 [[menu.main]]
 name = "Contact"
@@ -67,20 +67,30 @@ weight = 4
 # URL = "blog"
 # weight = 1
 
-# [[menu.footer]]
-# name = "Contact"
-# URL = "contact"
-# weight = 2
+[[menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 2
 
-# [[menu.footer]]
-# name = "Terms & Conditions"
-# URL = "terms-conditions"
-# weight = 3
+[[menu.footer]]
+name = "Terms & Conditions"
+URL = "terms-conditions"
+weight = 3
 
-# [[menu.footer]]
-# name = "Privacy Policy"
-# URL = "privacy-policy"
-# weight = 4
+[[menu.footer]]
+name = "Privacy Policy"
+URL = "privacy-policy"
+weight = 4
+
+
+
+# Navigation buttons
+[params.navigation_button]
+enable = true
+label = "Get a Quote"
+link = "contact"  
+
+
 
 
 ########################### Default parameters ##########################
