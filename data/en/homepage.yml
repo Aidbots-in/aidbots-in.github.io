@@ -2,7 +2,8 @@
 banner:
   enable : true
   title : "Sahayak Robot, Think Distant"
-  content : "Short description of the robot how it helps in coronavirus situation."
+  content : "Sahayak is a teleoperated robot to assist doctors and nurses in treating coronavirus patients. Sahayak can deliver food packets and essential medicines to the patients. 
+            Doctors can interact with patients from a safe distance using the onboard video conferencing system."
   image : "images/sahayak-1.png"
   button:
    enable : true
@@ -20,7 +21,7 @@ features:
     # feature item loop
   - title : "Video Conferencing"
     image : "icons/smartphone.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "10 inch tablet with audio-video capabilitity to interact with the patients from a distant."
     
   #   # feature item loop
   # - title : "User Friendly Interface"
@@ -30,12 +31,12 @@ features:
     # feature item loop
   - title : "Payload"
     image : "icons/payload.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Carry essential medicines and food packets, upto 15 kgs of payload"
 
     # feature item loop
   - title : "Runtime"
     image : "icons/car-battery.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Charge it once and ready to serve the whole day, upto 90 mins of battery backup."
 
 
   # feature at the right of the image
@@ -43,12 +44,12 @@ features:
     # feature item loop
   - title : "Easy to use"
     image : "icons/like.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Install the Sahayak app on your smartphone and easily control the robot."
 
     # feature item loop
   - title : "Customisable"
     image : "icons/wrench.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Customise the robot according to your need, add extra shelves, batteries and more."
 
   #   # feature item loop
   # - title : "Easy to clean"
@@ -58,7 +59,7 @@ features:
     # feature item loop
   - title : "Cost effective care"
     image : "icons/money-box.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Easy to clean and maintain the robot, without any additional cost."
 
 ############################# promo ############################
 promo:
@@ -66,7 +67,9 @@ promo:
   # image : "images/iPhone-X.png"
   youtube: pSqHcjDWims
   title : "Your companion in the fight against coronavirus"
-  content : "Scare ppl with coronavirus stats end with an idea of using a robot technology."
+  content : " Coronavirus has taken away millions of life accross the globe. Doctors/nurses in hospitals and quarantine centers are frontline workers and are most vulnerable to get infected by coronavirus.
+                Wearing PPE kit is time consuming, un-comfortable and not 100% effective. Sahayak robot is designed to effectively reduce the number of direct interactions of the doctors/nurses
+                with the coronavirus patients."
 
 
             # <br><br>
@@ -80,7 +83,8 @@ about_product:
     # about product item loop
     - image : "images/sahayak-doctor2.png"
       title : "Co-designed with care & your Feedbacks."
-      content : "How robots can protect dotors use cases in hospital"
+      content : "Doctors and nurses in hospitals and quarantine centers are frontline workers and are most vulnerable to get infected by coronavirus.
+                Wearing PPE kit is time consuming, un-comfortable and not 100% effective."
       button:
         enable : false
         label : "Check Features"
@@ -184,7 +188,7 @@ subscription:
   enable : true
   bg_image : "images/call-to-action.jpg"
   title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  content : "Subscribe to our mailing list to learn about our new product launches and how Sahayak robot is helping the society. We promise, not to spam your email :) "
   placeholder : "Your Email Address Here"
 
 

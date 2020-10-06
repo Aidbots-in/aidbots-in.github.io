@@ -20,6 +20,8 @@ link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themefisher-font/themefisher-font.min.css"
+# [[params.plugins.css]]
+# link = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 [[params.plugins.css]]
@@ -72,10 +74,10 @@ name = "Contact"
 URL = "contact"
 weight = 2
 
-[[menu.footer]]
-name = "Terms & Conditions"
-URL = "terms-conditions"
-weight = 3
+# [[menu.footer]]
+# name = "Terms & Conditions"
+# URL = "terms-conditions"
+# weight = 3
 
 [[menu.footer]]
 name = "Privacy Policy"
@@ -119,6 +121,41 @@ mailchimp_form_action = "https://aidbots.us2.list-manage.com/subscribe/post?u=8f
 mailchimp_form_name = "b_8f1a3d773f3410ea7a5cf4473_895895f5b1" # replace this code with yours
 
 
+
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "tf-ion-social-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "instagram"
+icon = " tf-ion-social-instagram" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "linkdin"
+icon = " tf-ion-social-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "tf-ion-social-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
@@ -126,7 +163,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed remotely in the City of Oranges and the foothills of the French Alps."
 
 
 ################################### French language #####################################

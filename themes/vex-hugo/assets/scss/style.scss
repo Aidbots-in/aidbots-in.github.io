@@ -6,7 +6,10 @@ sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
 $primary-color: #f9a743;
+$white: #fff;
+$black: #000;
 $icon-font: 'themefisher-font' !important;
+/*$icon-font: 'themify' !important;*/
 
 /*--
     Common Css
@@ -479,6 +482,26 @@ footer {
     }
   }
 }
+
+
+.social-icons a {
+  color: $black;
+  text-align: center;
+  height: 35px;
+  width: 35px;
+  line-height: 35px;
+  /*border: 1px solid $black;*/
+  border-radius: 50%;
+  display: block;
+
+  &:hover {
+    color: $white;
+    background-color: $black;
+  }
+}
+
+
+
 
 // product single
 p.price {
