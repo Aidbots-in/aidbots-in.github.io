@@ -67,9 +67,8 @@ promo:
   # image : "images/iPhone-X.png"
   youtube: pSqHcjDWims
   title : "Your companion in the fight against coronavirus"
-  content : " Coronavirus has taken away millions of life accross the globe. Doctors/nurses in hospitals and quarantine centers are frontline workers and are most vulnerable to get infected by coronavirus.
-                Wearing PPE kit is time consuming, un-comfortable and not 100% effective. Sahayak robot is designed to effectively reduce the number of direct interactions of the doctors/nurses
-                with the coronavirus patients."
+  content : " Coronavirus has taken millions of lives across the globe. Doctors/nurses in hospitals and quarantine centers are most vulnerable to get infected by coronavirus. Wearing a PPE kit is time-consuming, uncomfortable, and not 100% effective.
+   Sahayak robot is designed to effectively reduce the number of direct interactions of the doctors/nurses with coronavirus patients.."
 
 
             # <br><br>
@@ -83,8 +82,8 @@ about_product:
     # about product item loop
     - image : "images/sahayak-doctor2.png"
       title : "Co-designed with care & your Feedbacks."
-      content : "Doctors and nurses in hospitals and quarantine centers are frontline workers and are most vulnerable to get infected by coronavirus.
-                Wearing PPE kit is time consuming, un-comfortable and not 100% effective."
+      content : "Safety of doctors/nurses is paramount. Sahayak robot is designed keeping your safety and ease of use in mind. Sahayak has long range of operation and large carrying capacity. Sahayak robot
+      can be used in big or small hospitals and quarantine centers."
       button:
         enable : false
         label : "Check Features"
@@ -93,7 +92,7 @@ about_product:
     # about product item loop
     - image : "images/nurse.gif"
       title : "Asisting doctors at AIIMS, Nagpur."
-      content : "Write how it is assiting in aiims like number of patients... number of hours."
+      content : "Sahayak robot has already been deployed in AIIMS Nagpur, India. Sahayak robot is being used everyday to deliver food brought by the relatives of the patients."
       button:
         enable : false
         label : "Check Features"
@@ -102,7 +101,8 @@ about_product:
     # about product item loop
     - image : "images/iPhone-X.png"
       title : "Control it from your smartphone."
-      content : "Use your anodroid or Iphone to move the robot and consult patient on video call distantly"
+      content : "Sahayak robot can be easily controlled by anyone using a smartphone with the help of our Sahayak App  Scan the QR code on the robot to connect with your phone. 
+      Directly see the camera feed from the robot on your phone and control the robot using the joystick. Use the same app to interact with the patients using the video conferencing feature."
       button:
         enable : false
         label : "Check Features"
@@ -111,9 +111,7 @@ about_product:
     # about product item loop
     - image : "images/made_in_india.gif"
       title : "Made and crafted in India!"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      content : "Sahayak robot is robustly build to sustain harsh conditions in the hospitals. All the components of the robot are manufactured and assembled in India."
       button:
         enable : false
         label : "Check Features"
@@ -148,21 +146,22 @@ team:
   testimonial_item:
     # testimonial item loop
     - name : "Harshad Zade"
-      designation : "CEO, Aidbots"
+      designation : "Co-founder Aidbots"
       image : "team/harshad2.png"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
     # testimonial item loop
     - name : "Ajinkya Kamat"
-      designation : "CTO, Aidbots"
+      designation : "Co-founder Aidbots"
       image : "team/ajinkya.jpg"
       content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
       
     # testimonial item loop
     - name : "Anshul Paigwar"
-      designation : "CTO, Aidbots"
+      designation : "Co-founder Aidbots"
       image : "team/anshul.jpeg"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "Anshul is a research engineer at the French National Institute of Computer Science (INRIA). Anshul has co-authored many research papers and has more than three years of experience at INRIA developing algorithms for Autonomous Vehicles.
+      Anshul holds a Master's degree in Robotics and Computer Vision. He had done his Bachelor's in Mechanical Engineering from VNIT Nagpur, India. Anshul has worked on numerous robotic platforms, like humanoids and mobile robots."
 
 
 ############################# promo_vers ############################

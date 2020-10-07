@@ -126,22 +126,22 @@ mailchimp_form_name = "b_8f1a3d773f3410ea7a5cf4473_895895f5b1" # replace this co
 [[params.social]]
 title = "facebook"
 icon = "tf-ion-social-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/ivlabs/"
 
 [[params.social]]
 title = "instagram"
 icon = " tf-ion-social-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/ivlabs/"
 
 [[params.social]]
-title = "linkdin"
+title = "linkedin"
 icon = " tf-ion-social-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/ivlabs-vnit/"
 
 [[params.social]]
-title = "twitter"
-icon = "tf-ion-social-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "Youtube"
+icon = "tf-ion-social-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UC2Ud1ZH23JJvmnb6aHCu51g/videos"
 
 
 
