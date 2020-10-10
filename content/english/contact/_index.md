@@ -7,7 +7,12 @@ office:
   mobile : "+91-7066333800"
   email : "support@aidbots.in"
   location : "Ivlabs, VNIT, Nagpur, Maharashtra 440010, India"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+
+suboffice:
+  title : "Sub Office"
+  mobile : "+91-9769178487"
+  email : "support@aidbots.in"
+  location : "316, SLV Springfield, Nagawara, Bangalore 560045, India"
 
 # opennig hour
 opennig_hour:

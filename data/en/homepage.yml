@@ -8,7 +8,7 @@ banner:
   button:
    enable : true
    label : "Get Brochure"
-   link : "https://drive.google.com/file/d/1tU39xiUDCUBD0QRCalufh2pbT4OrZW9e/view?usp=sharing"
+   link :  "https://raw.githubusercontent.com/Aidbots-in/aidbots-in.github.io/master/static/documents/Sahayak_brochure.pdf"
 
 ############################# Feature ############################
 features:
@@ -148,7 +148,8 @@ team:
     - name : "Harshad Zade"
       designation : "Co-founder Aidbots"
       image : "team/harshad2.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "Harshad is highly motivated in the field of robotics. He is currently pursuing his Bachelor's degree from VNIT Nagpur, India. Harshad is a core member of IvLabs (a student's Robotics and AI lab at VNIT), wherein he works on robotic hardware development and mentor junior projects. 
+      In the difficult time of COVID lockdown, Harshad developed the version-1 of the Sahayak robot, just in a span of 10 days. He is actively involved in robotics research and has published his work at international conferences."
       
     # testimonial item loop
     - name : "Ajinkya Kamat"
