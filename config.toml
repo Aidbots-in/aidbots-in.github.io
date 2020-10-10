@@ -9,6 +9,10 @@ googleAnalytics = "" # Ex: UA-123-45
 # disable language
 disableLanguages = ["fr"] # desable language from here
 
+enableRobotsTXT = true
+canonifyURLs = true
+
+
 publishDir = "docs"
 
 #################################### Plugins ##########################################
@@ -100,7 +104,7 @@ link = "contact"
 logo = "images/Aidbots_logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "Aidbots, sahayak robot, corona robot, fight corona, ivlabs, vnit, nagpur"
 author = "Anshul Paigwar"
 # currency
 currency = "$"
@@ -111,7 +115,7 @@ snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use .png , .svg or .gif format
 
 # Subscription
