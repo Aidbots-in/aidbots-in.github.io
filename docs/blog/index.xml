@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Latest Post on Aidbots</title>
-    <link>https://www.aidbots.in/blog/</link>
+    <link>https://aidbots-in.github.io/blog/</link>
     <description>Recent content in Our Latest Post on Aidbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Designed remotely in the foothills of the French Alps, the City of Oranges, and the Silicon Valley of India.</copyright>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://www.aidbots.in/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    <atom:link href="https://aidbots-in.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sahayak robot handover to AIIMS Nagpur.</title>
-      <link>https://www.aidbots.in/blog/post-1/</link>
+      <link>https://aidbots-in.github.io/blog/post-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://www.aidbots.in/blog/post-1/</guid>
+      <guid>https://aidbots-in.github.io/blog/post-1/</guid>
       <description>Students of VNIT have developed a robot named ‘Sahayak’ to help in fighting the coronavirus pandemic. Frontline workers like doctors and nurses in the hospital are at the highest risk of getting infected.</description>
     </item>
-    
   </channel>
 </rss>

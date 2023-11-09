@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terms &amp; Conditions on Aidbots</title>
-    <link>https://www.aidbots.in/privacy-policy/</link>
+    <link>https://aidbots-in.github.io/privacy-policy/</link>
     <description>Recent content in Terms &amp; Conditions on Aidbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Designed remotely in the foothills of the French Alps, the City of Oranges, and the Silicon Valley of India.</copyright><atom:link href="https://www.aidbots.in/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Designed remotely in the foothills of the French Alps, the City of Oranges, and the Silicon Valley of India.</copyright>
+    <atom:link href="https://aidbots-in.github.io/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

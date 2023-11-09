@@ -1,100 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://www.aidbots.in/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>https://aidbots-in.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://www.aidbots.in/products/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/versions/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/products/product-5/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/versions/product-5/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/products/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/versions/product-4/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/blog/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/blog/post-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/products/product-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/versions/product-2/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/products/product-3/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/versions/product-3/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/products/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/versions/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/privacy-policy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.aidbots.in/terms-conditions/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

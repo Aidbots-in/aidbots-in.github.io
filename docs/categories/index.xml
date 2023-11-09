@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Aidbots</title>
-    <link>https://www.aidbots.in/categories/</link>
+    <link>https://aidbots-in.github.io/categories/</link>
     <description>Recent content in Categories on Aidbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Designed remotely in the foothills of the French Alps, the City of Oranges, and the Silicon Valley of India.</copyright><atom:link href="https://www.aidbots.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Designed remotely in the foothills of the French Alps, the City of Oranges, and the Silicon Valley of India.</copyright>
+    <atom:link href="https://aidbots-in.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

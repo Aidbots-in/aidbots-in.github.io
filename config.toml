@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.aidbots.in"
+baseurl = "https://aidbots-in.github.io/"
 title = "Aidbots"
 theme = "vex-hugo"
 # post excert
@@ -89,14 +89,11 @@ URL = "privacy-policy"
 weight = 4
 
 
-
 # Navigation buttons
 [params.navigation_button]
 enable = true
 label = "Get a Quote"
-link = "contact"  
-
-
+link = "contact"
 
 
 ########################### Default parameters ##########################
@@ -122,42 +119,29 @@ preloader = "" # use .png , .svg or .gif format
 [params.subscription]
 # mailchimp subsciption
 mailchimp_form_action = "https://aidbots.us2.list-manage.com/subscribe/post?u=8f1a3d773f3410ea7a5cf4473&amp;id=895895f5b1" # not working from here had to directly place url in subscription.html
-mailchimp_form_name = "b_8f1a3d773f3410ea7a5cf4473_895895f5b1" # replace this code with yours
-
+mailchimp_form_name = "b_8f1a3d773f3410ea7a5cf4473_895895f5b1"                                                             # replace this code with yours
 
 
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
-icon = "tf-ion-social-facebook" # themify icon : https://themify.me/themify-icons
+icon = "tf-ion-social-facebook"           # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/ivlabs/"
 
 [[params.social]]
 title = "instagram"
-icon = " tf-ion-social-instagram" # themify icon : https://themify.me/themify-icons
+icon = " tf-ion-social-instagram"          # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/ivlabs/"
 
 [[params.social]]
 title = "linkedin"
-icon = " tf-ion-social-linkedin" # themify icon : https://themify.me/themify-icons
+icon = " tf-ion-social-linkedin"                       # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/ivlabs-vnit/"
 
 [[params.social]]
 title = "Youtube"
-icon = "tf-ion-social-youtube" # themify icon : https://themify.me/themify-icons
+icon = "tf-ion-social-youtube"                                           # themify icon : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UC2Ud1ZH23JJvmnb6aHCu51g/videos"
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ################################### English language #####################################
